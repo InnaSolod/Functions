@@ -5,3 +5,11 @@ const fnA = function () {
 const fnB = function () {
   console.log("Выполняется функуия В");
 };
+
+const fnC = function () {
+  console.log("Выполняется функуия C");
+};
+
+fnA();
+fnB();
+fnC();
